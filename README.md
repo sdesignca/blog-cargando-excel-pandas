@@ -9,4 +9,3 @@ El repositorio contiene el archivo de **datos.xlsx**, **WasteBySector.xlsx** y e
 
 ## Autor
 * Pablo Sao
-v
